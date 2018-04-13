@@ -3,7 +3,7 @@
 1. int float bool类型都是Number的子类
 2. Python中浮点数只有float类型且为双精度类型，没有double类型
 3. type()方法，判断给定内容的类型
-```java
+```python
 >>> type(int)
 <class 'type'>
 >>> type(1)
